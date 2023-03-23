@@ -1,2 +1,2 @@
 # terraform---aws--apollo
-Pet Clink - AWS EC2 Instance Request
+Pet Clink - Terraform template for AWS EC2 Instance Request, including vpc, 
